@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homework3</string>
+    <string name="sign_in_title">Войти</string>
+    <string name="sign_in_login_hint">Логин</string>
+    <string name="sign_in_password_hint">Пароль</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="catalog_text">Раздел в разработке</string>
+</resources>
